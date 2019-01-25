@@ -1,4 +1,10 @@
 {
   "heloMessage": "привет",
-  "world": "мир!"
+  "world": "мир!",
+  "items": [{
+    "name": "имя",
+    "data": {
+      "url": "https://github.com/BratecKrolikStudent/translate-to"
+    }
+  }]
 }

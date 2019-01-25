@@ -17,6 +17,7 @@
     "eslint-plugin-import": "^2.15.0"
   },
   "dependencies": {
+    "lodash.clonedeep": "^4.5.0",
     "request": "^2.88.0"
   }
 }
